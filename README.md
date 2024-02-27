@@ -1,19 +1,16 @@
 
 
-###🏻‍💻 &nbsp;About Me <img width="35%" src="images/image.jpg" align="right"/>
+<img width="55%" src="images/image.jpg" align="right"/>
 
 
-<h1 align="center">Привет! я Ильгиз и я QA</h1>
+<h1 align="center">Привет! я Ильгиз и я </h1>
 
-### Contacts
+### Контакты
 
 <a href = "https://t.me/igafarov"><img width="7%" title="Telegram" src="logo/Telegram.svg"></a>
 
-## :man_student: Дипломный проект [QA GURU](https://qa.guru/)
+### Дипломный проект [QA GURU](https://qa.guru/)
 
-<p align="left">  
- <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
-</p>
 
 |      Project name               | GitHub links                                        
 |-------------------------------- |-----------------------------------------------------|
