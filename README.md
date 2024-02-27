@@ -1,9 +1,7 @@
+<h1 align="center">Привет! я Ильгиз и я </h1>
 
 
 <img width="55%" src="images/image.jpg" align="right"/>
-
-
-<h1 align="center">Привет! я Ильгиз и я </h1>
 
 ### Контакты
 
