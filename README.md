@@ -1,4 +1,4 @@
-<h1 align="center">Привет! я Ильгиз и я </h1>
+<h1 align="center">Привет! я Ильгиз </h1>
 
 <img width="100%" src="images/image.jpg" align="center"/>
 
