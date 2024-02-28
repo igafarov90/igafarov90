@@ -25,6 +25,7 @@
 <img width="7%" title="Selenoid" src="logo/Selenoid.svg">
 <img width="7%" title="Allure Report" src="logo/Allure.svg">
 <img width="7%" title="Gradle" src="logo/Gradle.svg">
+<img width="7%" title="Rest Assured" src="logo/RestAssured.svg">
 <img width="7%" title="JUnit5" src="logo/Junit5.svg">
 <img width="7%" title="Jenkins" src="logo/Jenkins.svg">
 <img width="7%" title="Allure" src="logo/Allure_TO.svg">
