@@ -10,9 +10,9 @@
 
 
 |      Project name               | GitHub links                                        
-|-------------------------------- |-----------------------------------------------------|
-|         UI tests                | https://github.com/igafarov90/amk_shop_ui_autotests |  
-|        API tests                |                                                     |  
+|-------------------------------- |----------------------------------------------------------------|
+|         UI tests                | https://github.com/igafarov90/amk_shop_ui_autotests            |  
+|        API tests                | https://github.com/igafarov90/igafarov_reqres.in_api_autotests |                                                    |  
  
 
 
